@@ -7,7 +7,7 @@ ZONE="us-central1-a"
 MACHINE_TYPE="e2-medium"
 IMAGE="debian-cloud/debian-11"
 DISK_SIZE="10"
-INSTANCE_NAME="terraform-vm-instance-1"
+INSTANCE_NAME="terraform-vm-instance"
 SERVICE_ACCOUNT_KEY="/home/rakshitha/Downloads/shining-energy-431601-h5-b70c520ac73a.json"
 TF_DIRECTORY="gcp-vm-deployment"
 
